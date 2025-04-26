@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://youtu.be/v8O9MdfSDy8' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[![Walkthrough Video](https://img.youtube.com/vi/v8O9MdfSDy8/0.jpg)](https://www.youtube.com/watch?v=v8O9MdfSDy8)
 
 ## Notes
 
